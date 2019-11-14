@@ -1,6 +1,6 @@
-# CMPE-255-Miners
+# CMPE-255 - Data Mining
 
-"Predict Suicidal Ideation Based on Tweets”
+# "Predict Suicidal Ideation Based on Tweets”
 
 Identifying people with suicidal tendencies through social networks is a real social issue and an emerging research area with major challenges. The key challenge of suicide prevention is understanding and detecting the complex risk factors and warning signs that may precipitate in the event. This project presents an approach to understand suicidal ideation and cluster people with similar sentiment and location, with the goal of early detection via supervised and unsupervised learning.
 
